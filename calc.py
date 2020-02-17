@@ -9,5 +9,5 @@ def multiply(x,y):
   return x*y
 def divide(x,y):
   """Divide Funtion"""
-  return x/h  
+  return x/J  
 
