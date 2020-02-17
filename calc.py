@@ -10,4 +10,4 @@ def multiply(x,y):
 def divide(x,y):
   """Divide Funtion"""
   return x/k  
-Dasavtar
+
